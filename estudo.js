@@ -3,7 +3,7 @@ function total(){
   let c = document.getElementById("valor").value;
   let j = document.getElementById("juros").value;
   let t = document.getElementById("meses").value;
-  let r = 0;
+  let r = c;
  
 
 function adicao(){
